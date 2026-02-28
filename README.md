@@ -81,5 +81,5 @@ The goal was to design a **systematic preprocessing workflow** to address these 
 - Distribution-based statistical validation  
 
 ---
-### Author
-- Bhaskar Mandal | Data Analyst Intern | SyntecxHub
+## 👨‍💻 Author
+**Bhaskar Mandal | Data Analyst Intern | SyntecxHub**
